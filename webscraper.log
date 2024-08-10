@@ -1,0 +1,2 @@
+2024/08/10 15:05:05 main.go:22: Failed to fetch and parse the page: HTTP status: 403 Forbidden
+2024/08/10 15:05:36 main.go:22: Failed to fetch and parse the page: failed to fetch URL: Get "google.com": unsupported protocol scheme ""

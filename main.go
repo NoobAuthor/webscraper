@@ -1,6 +1,8 @@
 package main
 
 import (
+	"NoobAuthor/webscraper/scraper"
+	"NoobAuthor/webscraper/utils"
 	"fmt"
 	"log"
 	"os"
